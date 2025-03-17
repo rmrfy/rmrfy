@@ -85,7 +85,8 @@
 </tr>
 </table>
 </p>
-<br>
+
+[![Anotherwebguy's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rmrfy&theme=github)]()
 
 <!-- Visitor Counter -->
 <br>
