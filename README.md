@@ -39,7 +39,7 @@
 
 ###### Languages:
 
-<img align="right" width=300px alt="Unicorn" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzkxZmkwN2Nhc2h6NDRuMzVrN2d0azc1b3AyeDM4cm56MWVlMWI1ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nEFaVNgFGGRQdWbmRq/giphy.gif"/>
+<img align="right" width=240px alt="Unicorn" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExanhlY3hqYTdoMW44dTdtYWdwNmF2cjgwdGNieXp2ZmgzazdjaXJvZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rbJrclh5cnPH8qyvLT/giphy.gif"/>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white)&nbsp;
