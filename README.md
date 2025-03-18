@@ -7,7 +7,7 @@
 
 <img align="right" width=150px alt="Unicorn" src="https://media.tenor.com/XP4tw9P1yFoAAAAM/dedsec.gif"/>
 
-- 💻 **Founding Engineer** @ **Traqo** <i>(Android & Web)</i>
+- 💻 **Founding Engineer** @ **Traqo** <i>(Android Native & Flutter)</i>
   
 - 🔭 Currently working on **IMX (.imx) & Series Analysis System** <i>(Personal Projects)</i>
 
