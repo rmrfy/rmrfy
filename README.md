@@ -77,11 +77,11 @@
 <tr>
 <td width="50%" align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=rmrfy&theme=nightowl&hide_border=false" alt="Ashish's streak" />
-    <!-- <p></p> -->
-    <!-- <img src="https://github-readme-stats.vercel.app/api?username=rmrfy&theme=nightowl&show_icons=true&count_private=true" /> -->
+    <p></p>
+    <img src="https://github-readme-stats-chi-ten-32.vercel.app/api?username=rmrfy&theme=nightowl&show_icons=true&count_private=true" />
 </td>
 <td width="50%" align="center">
-    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=rmrfy&theme=nightowl&hide_border=false&langs_count=6"/>
+    <img src="https://github-readme-stats-chi-ten-32.vercel.app/api/top-langs/?username=rmrfy&theme=nightowl&hide_border=false&langs_count=6"/>
 </td>
 </tr>
 </table>
