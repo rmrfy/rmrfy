@@ -21,7 +21,7 @@
 <!-- Profile Trophies -->
 <div align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=rmrfy&theme=dark_lover&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" width="84%" />
+        <img src="https://github-profile-trophy.vercel.app/?username=rmrfy&theme=juicyfresh&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" width="84%" />
     </a>
 </div>     
 
@@ -87,7 +87,7 @@
 </table>
 </p>
 
-[![Anotherwebguy's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rmrfy&theme=github)]()
+[![rmrfy's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rmrfy&theme=github)]()
 
 <!-- Visitor Counter -->
 <br>
